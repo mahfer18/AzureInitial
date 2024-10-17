@@ -4,6 +4,8 @@ Esse é um overview sobre Microsoft Azure
 
 Inicio dos estudos do bootcamp Microsoft Azure Essentials.
 
+
+
 MICROSOFT AZURE
 
 A computação em nuvem é o fornecimento de serviços de computação pela Internet, habilitando inovações mais rápidas, recursos flexíveis e economias de escala.
@@ -92,3 +94,23 @@ Criar uma máquina virtual (VM) no Azure é uma das tarefas mais comuns para usu
 - Defina Credenciais: Crie um nome de usuário e uma senha para acessar a VM.
 
 - Revise e Crie: Revise suas configurações e clique em "Criar".
+
+  # Banco de Dados
+
+  Assim como foi feito para criar uma Máquina Virtual os passos necessários para criar uma instância de Bando de Dados na plataforma:
+
+  - Acesse o Portal do Azure: Faça login em sua conta no portal do Azure.
+
+  - Crie um Novo Recurso: No painel esquerdo, clique em "Criar um recurso" e selecione "SQL Database" ou pode analisar os favoritos onde por padrão tem a opção "Banco de Dados SQL" .
+ 
+    
+  ![image](https://github.com/user-attachments/assets/95b1897e-b485-43ee-90d5-9634237ddfec)
+
+  - Configure os detalhes do projeto de Banco de Dados com base na assinatura e grupo de recursos.
+ 
+  - Configure os detalhes do Banco de Dados, como nome do Banco e Servidor (caso não haja um servidor configurado, criar um novo).
+
+  - Defina a computação + armazenamento.
+ 
+  - Revise e Crie: Revise suas configurações e clique em "Criar".
+
